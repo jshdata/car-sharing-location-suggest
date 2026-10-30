@@ -1,0 +1,15 @@
+folium
+geopandas
+jupyterlab
+koreanize-matplotlib
+matplotlib
+networkx
+numpy
+openpyxl
+pandas
+plotly
+psycopg2-binary
+scikit-learn
+seaborn
+shapely
+tqdm
